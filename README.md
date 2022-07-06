@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project.
+Implement hello_world in Flutter using tab bar
 
 ## Getting Started
 
